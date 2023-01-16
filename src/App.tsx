@@ -5,9 +5,7 @@ import './App.css'
 // fixes something
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  // changes
+  const [count, setCount] = useState(1)
 
   return (
     <div className="App">
