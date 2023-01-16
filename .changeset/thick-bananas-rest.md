@@ -2,4 +2,4 @@
 "test-changesets": major
 ---
 
-adds breaking change
+adds breaking change (edited after creation)
