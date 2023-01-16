@@ -8,8 +8,7 @@
     "build": "tsc && vite build",
     "start": "vite preview",
     "changeset": "changeset",
-    "version": "changeset version",
-    "publish": "changeset publish"
+    "release": "changeset publish"
   },
   "dependencies": {
     "@changesets/cli": "^2.26.0",
