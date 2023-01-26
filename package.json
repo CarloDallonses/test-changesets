@@ -1,8 +1,11 @@
 {
   "name": "test-changesets",
-  "private": true,
   "version": "1.0.2",
   "type": "module",
+  "repository": "https://github.com/carlodallonses//test-changesets",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
