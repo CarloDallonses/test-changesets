@@ -4,6 +4,9 @@
   "type": "module",
   "repository": "https://github.com/carlodallonses/test-changesets",
   "main": "public/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "public/**"
   ],
