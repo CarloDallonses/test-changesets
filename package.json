@@ -1,8 +1,12 @@
 {
-  "name": "test-changesets",
-  "version": "1.0.2",
+  "name": "@carlodallonses/test-changesets",
+  "version": "1.0.3",
   "type": "module",
-  "repository": "https://github.com/carlodallonses//test-changesets",
+  "repository": "https://github.com/carlodallonses/test-changesets",
+  "main": "public/index.js",
+  "files": [
+    "public/**"
+  ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },

@@ -1,5 +1,11 @@
 # test-changesets
 
+## 1.0.3
+
+### Patch Changes
+
+- 4eb9e4b: adds support to github pacakges
+
 ## 1.0.2
 
 ### Patch Changes
