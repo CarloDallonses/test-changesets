@@ -1,5 +1,12 @@
 # test-changesets
 
+## 1.0.4
+
+### Patch Changes
+
+- 9cf49d7: adds a log
+- 387f67b: he arreglao esta cosa super tonta
+
 ## 1.0.3
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "@carlodallonses/test-changesets",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "repository": "https://github.com/carlodallonses/test-changesets",
   "main": "public/index.js",
